@@ -13,6 +13,11 @@ spec:
       containers:
       - name: combined-db
         image: localhost:5000/data61/magda-combined-db:latest
+        env:
+          - name: CLIENT_USERNAME
+            value: "client"
+          - name: CLIENT_PASSWORD
+            value: "password"
         ports:
         - containerPort: 5432
         volumeMounts:

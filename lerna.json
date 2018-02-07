@@ -17,6 +17,7 @@
     "magda-discussions-db/",
     "magda-elastic-search/",
     "magda-gateway/",
+    "magda-geojson-file-connector/",
     "magda-indexer/",
     "magda-int-test/",
     "magda-postgres/",
