@@ -1,0 +1,8 @@
+{
+    "type": "magda-csw-connector",
+    "id": "ternacef",
+    "name": "Australian Coastal Ecosystems Facility",
+    "sourceUrl": "https://acef.tern.org.au/geonetwork/srv/eng/csw",
+    "pageSize": 100,
+    "schedule": "0 11 */3 * *"
+}

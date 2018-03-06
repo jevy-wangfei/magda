@@ -1,0 +1,11 @@
+{
+    "type": "magda-ckan-connector",
+    "id": "aurin",
+    "name": "data.aurin.org.au",
+    "sourceUrl": "https://data.aurin.org.au/",
+    "pageSize": 1000,
+    "schedule": "0 4 */3 * *",
+    "ignoreHarvestSources": [
+        "*"
+    ]
+}
