@@ -1,0 +1,10 @@
+{
+    "type": "magda-geojson-file-connector",
+    "id": "gjf",
+    "name": "GeoJSON Test File",
+    "sourceUrl": "file:///home/som05d/geofabric_gf_hrr_awra_drainage_divisions.geojson",
+    "schedule": "0 4 */3 * *",
+    "ignoreHarvestSources": [
+        "*"
+    ]
+}

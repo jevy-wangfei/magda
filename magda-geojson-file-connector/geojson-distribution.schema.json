@@ -1,0 +1,5 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "title": "Aspect capturing a complete representation of a Distribution of a GeoJSON file.",
+  "type": "object"
+}
